@@ -1,0 +1,1 @@
+šRƒC:\Users\Ariel\Documentos\Repositorios\PruebasSoftware_p2p\PruebasSoftwareP2P\CitasMedicas\TestProjectCitas\TestProjectCitas.csproj¢net8.0òCSharp12

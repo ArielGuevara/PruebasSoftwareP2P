@@ -1,0 +1,17 @@
+﻿C:\Users\Ariel\Documentos\Repositorios\PruebasSoftware_p2p\PruebasSoftwareP2P\CitasMedicas\CitasMedicas\AppDbContext.cs
+C:\Users\Ariel\Documentos\Repositorios\PruebasSoftware_p2p\PruebasSoftwareP2P\CitasMedicas\CitasMedicas\Controllers\CitasController.cs
+C:\Users\Ariel\Documentos\Repositorios\PruebasSoftware_p2p\PruebasSoftwareP2P\CitasMedicas\CitasMedicas\Controllers\DoctorController.cs
+C:\Users\Ariel\Documentos\Repositorios\PruebasSoftware_p2p\PruebasSoftwareP2P\CitasMedicas\CitasMedicas\Controllers\PacientesController.cs
+C:\Users\Ariel\Documentos\Repositorios\PruebasSoftware_p2p\PruebasSoftwareP2P\CitasMedicas\CitasMedicas\Controllers\ProcedimientoController.cs
+C:\Users\Ariel\Documentos\Repositorios\PruebasSoftware_p2p\PruebasSoftwareP2P\CitasMedicas\CitasMedicas\Migrations\20250116150812_InitialCreate.cs
+C:\Users\Ariel\Documentos\Repositorios\PruebasSoftware_p2p\PruebasSoftwareP2P\CitasMedicas\CitasMedicas\Migrations\20250116150812_InitialCreate.Designer.cs
+C:\Users\Ariel\Documentos\Repositorios\PruebasSoftware_p2p\PruebasSoftwareP2P\CitasMedicas\CitasMedicas\Migrations\AppDbContextModelSnapshot.cs
+C:\Users\Ariel\Documentos\Repositorios\PruebasSoftware_p2p\PruebasSoftwareP2P\CitasMedicas\CitasMedicas\Program.cs
+C:\Users\Ariel\Documentos\Repositorios\PruebasSoftware_p2p\PruebasSoftwareP2P\CitasMedicas\CitasMedicas\obj\Debug\net8.0\CitasMedicas.GlobalUsings.g.cs
+C:\Users\Ariel\Documentos\Repositorios\PruebasSoftware_p2p\PruebasSoftwareP2P\CitasMedicas\CitasMedicas\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+C:\Users\Ariel\Documentos\Repositorios\PruebasSoftware_p2p\PruebasSoftwareP2P\CitasMedicas\CitasMedicas\obj\Debug\net8.0\CitasMedicas.AssemblyInfo.cs
+C:\Users\Ariel\Documentos\Repositorios\PruebasSoftware_p2p\PruebasSoftwareP2P\CitasMedicas\CitasMedicas\obj\Debug\net8.0\CitasMedicas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ariel\Documentos\Repositorios\PruebasSoftware_p2p\PruebasSoftwareP2P\CitasMedicas\CitasMedicas\appsettings.Development.json
+C:\Users\Ariel\Documentos\Repositorios\PruebasSoftware_p2p\PruebasSoftwareP2P\CitasMedicas\CitasMedicas\appsettings.json
+C:\Users\Ariel\Documentos\Repositorios\PruebasSoftware_p2p\PruebasSoftwareP2P\CitasMedicas\CitasMedicas\CitasMedicas.http
+C:\Users\Ariel\Documentos\Repositorios\PruebasSoftware_p2p\PruebasSoftwareP2P\CitasMedicas\CitasMedicas\Properties\launchSettings.json

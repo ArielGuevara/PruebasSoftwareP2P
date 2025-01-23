@@ -1,0 +1,16 @@
+¥
+®C:\Users\Ariel\Documentos\Repositorios\PruebasSoftware_p2p\PruebasSoftwareP2P\CitasMedicas\CitasMedicas\obj\Debug\net8.0\CitasMedicas.MvcApplicationPartsAssemblyInfo.csutf-8°
+ïC:\Users\Ariel\Documentos\Repositorios\PruebasSoftware_p2p\PruebasSoftwareP2P\CitasMedicas\CitasMedicas\obj\Debug\net8.0\CitasMedicas.AssemblyInfo.csutf-8≥
+ßC:\Users\Ariel\Documentos\Repositorios\PruebasSoftware_p2p\PruebasSoftwareP2P\CitasMedicas\CitasMedicas\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8£
+óC:\Users\Ariel\Documentos\Repositorios\PruebasSoftware_p2p\PruebasSoftwareP2P\CitasMedicas\CitasMedicas\obj\Debug\net8.0\CitasMedicas.GlobalUsings.g.csutf-8É
+zC:\Users\Ariel\Documentos\Repositorios\PruebasSoftware_p2p\PruebasSoftwareP2P\CitasMedicas\CitasMedicas\WeatherForecast.csutf-8õ
+èC:\Users\Ariel\Documentos\Repositorios\PruebasSoftware_p2p\PruebasSoftwareP2P\CitasMedicas\CitasMedicas\Migrations\AppDbContextModelSnapshot.csutf-8{
+rC:\Users\Ariel\Documentos\Repositorios\PruebasSoftware_p2p\PruebasSoftwareP2P\CitasMedicas\CitasMedicas\Program.csutf-8ß
+õC:\Users\Ariel\Documentos\Repositorios\PruebasSoftware_p2p\PruebasSoftwareP2P\CitasMedicas\CitasMedicas\Migrations\20250116150812_InitialCreate.Designer.csutf-8ú
+íC:\Users\Ariel\Documentos\Repositorios\PruebasSoftware_p2p\PruebasSoftwareP2P\CitasMedicas\CitasMedicas\Migrations\20250116150812_InitialCreate.csutf-8ö
+êC:\Users\Ariel\Documentos\Repositorios\PruebasSoftware_p2p\PruebasSoftwareP2P\CitasMedicas\CitasMedicas\Controllers\WeatherForecastController.csutf-8î
+äC:\Users\Ariel\Documentos\Repositorios\PruebasSoftware_p2p\PruebasSoftwareP2P\CitasMedicas\CitasMedicas\Controllers\PacientesController.csutf-8ë
+áC:\Users\Ariel\Documentos\Repositorios\PruebasSoftware_p2p\PruebasSoftwareP2P\CitasMedicas\CitasMedicas\Controllers\DoctorController.csutf-8ê
+ÜC:\Users\Ariel\Documentos\Repositorios\PruebasSoftware_p2p\PruebasSoftwareP2P\CitasMedicas\CitasMedicas\Controllers\CitasController.csutf-8ò
+éC:\Users\Ariel\Documentos\Repositorios\PruebasSoftware_p2p\PruebasSoftwareP2P\CitasMedicas\CitasMedicas\Controllers\ProcedimientoController.csutf-8Ä
+wC:\Users\Ariel\Documentos\Repositorios\PruebasSoftware_p2p\PruebasSoftwareP2P\CitasMedicas\CitasMedicas\AppDbContext.csutf-8

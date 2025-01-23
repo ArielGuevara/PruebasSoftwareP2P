@@ -1,0 +1,7 @@
+C:\Users\Ariel\Documentos\Repositorios\PruebasSoftware_p2p\PruebasSoftwareP2P\CitasMedicas\TestProjectCitas\bin\Debug\net8.0\CoverletSourceRootsMapping_TestProjectCitas
+C:\Users\Ariel\Documentos\Repositorios\PruebasSoftware_p2p\PruebasSoftwareP2P\CitasMedicas\TestProjectCitas\obj\Debug\net8.0\TestProjectCitas.csproj.AssemblyReference.cache
+C:\Users\Ariel\Documentos\Repositorios\PruebasSoftware_p2p\PruebasSoftwareP2P\CitasMedicas\TestProjectCitas\obj\Debug\net8.0\TestProjectCitas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ariel\Documentos\Repositorios\PruebasSoftware_p2p\PruebasSoftwareP2P\CitasMedicas\TestProjectCitas\obj\Debug\net8.0\TestProjectCitas.AssemblyInfoInputs.cache
+C:\Users\Ariel\Documentos\Repositorios\PruebasSoftware_p2p\PruebasSoftwareP2P\CitasMedicas\TestProjectCitas\obj\Debug\net8.0\TestProjectCitas.AssemblyInfo.cs
+C:\Users\Ariel\Documentos\Repositorios\PruebasSoftware_p2p\PruebasSoftwareP2P\CitasMedicas\TestProjectCitas\obj\Debug\net8.0\TestProjectCitas.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\Documentos\Repositorios\PruebasSoftware_p2p\PruebasSoftwareP2P\CitasMedicas\TestProjectCitas\obj\Debug\net8.0\TestProjectCitas.sourcelink.json

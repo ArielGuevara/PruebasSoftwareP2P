@@ -1,0 +1,6 @@
+projectKey=pruebas-p2
+serverUrl=http://localhost:9000
+serverVersion=25.1.0.102122
+dashboardUrl=http://localhost:9000/dashboard?id=pruebas-p2
+ceTaskId=f7e31aab-5660-438f-821f-351b5bfc5cd9
+ceTaskUrl=http://localhost:9000/api/ce/task?id=f7e31aab-5660-438f-821f-351b5bfc5cd9
